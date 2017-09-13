@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "PFAgoraSansProLight";
+    src: url(../fonts/pfagorasanspro-light.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "PFAgoraSansProThin";
+    src: url(../fonts/pfagorasanspro-thin.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "PFAgoraSansProXThin";
+    src: url(../fonts/pfagorasanspro-xthin.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "PFAgoraSansProRegular";
+    src: url(../fonts/pfagorasanspro-reg.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "PFAgoraSansProBold";
+    src: url(../fonts/pfagorasanspro-bold.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
