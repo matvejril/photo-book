@@ -433,17 +433,18 @@ button:hover {
 .footer {
     font-family: PFAgoraSansProRegular, sans-serif;
     display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
     background-color: #f7d518;
     text-align: center;
-    padding: 51px 14.5% 55px 12%;
+    padding: 51px 14.5% 55px 14.5%;
 }
 
 .footer-navigation {
-    display: inline-flex;
-    justify-content: space-around;
+    display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
-    float: left;
-    width: 62%;
+    width: 56.5%;
 }
 
 .navigation-group {
@@ -465,14 +466,9 @@ button:hover {
     color: #000000;
 }
 
-.social-network {
-    padding: 0;
-}
-
 .social {
     display: flex;
-    justify-content: space-around;
-    float: right;
+    justify-content: flex-start;
     flex-direction: column;
     text-align: left;
     width: 150px;
@@ -506,13 +502,13 @@ button:hover {
     margin: 0 0 15px 0;
     font-size: 11px;
 }
-
 .autor img {
 
 }
 
 .copyright {
-    padding: 255px 0 0 0;
+    padding-top: 37px;
     margin: 0;
     font-size: 15px;
+    width: 100%;
 }
